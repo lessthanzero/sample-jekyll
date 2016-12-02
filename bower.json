@@ -1,0 +1,21 @@
+{
+  "name": "sample-jekyll",
+  "description": "Sample Jekyll website",
+  "main": "gulpfile.js",
+  "authors": [
+    "Alexander Katin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jekyll"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_assets/bower",
+    "test",
+    "tests"
+  ]
+}

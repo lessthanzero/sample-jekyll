@@ -1,0 +1,21 @@
+{
+  "name": "sample-jekyll",
+  "version": "1.0.0",
+  "description": "Sample Jekyll website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "Alexander Katin",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-shell": "*",
+    "bower": "*",
+    "browser-sync": "*"
+  }
+}
